@@ -32,8 +32,8 @@ torch==2.7.0
 torchaudio
 
 #causal conv1d******************************
-https://github.com/loscrossos/lib_causal-conv1d/releases/download/v1.5.0.post8_crossos00/causal_conv1d-1.5.0.post8-cp312-cp312-linux_x86_64.whl ; sys_platform == 'linux' #egg:v1.5.0.post8
-https://github.com/loscrossos/lib_causal-conv1d/releases/download/v1.5.0.post8_crossos00/causal_conv1d-1.5.0.post8-cp312-cp312-win_amd64.whl  ; sys_platform == 'win32' #egg:v1.5.0.post8
+https://github.com/loscrossos/lib_causal-conv1d/releases/download/v1.5.0.post8_crossos00/causal_conv1d-1.5.0.post8+cu129torch2.7.0-cp312-cp312-linux_x86_64.whl ; sys_platform == 'linux' #egg:v1.5.0.post8
+https://github.com/loscrossos/lib_causal-conv1d/releases/download/v1.5.0.post8_crossos00/causal_conv1d-1.5.0.post8+cu129torch2.7.0-cp312-cp312-win_amd64.whl  ; sys_platform == 'win32' #egg:v1.5.0.post8
 
 
 
